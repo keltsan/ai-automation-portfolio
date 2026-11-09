@@ -40,4 +40,4 @@ See [DATA_POLICY.md](./DATA_POLICY.md). No secrets are committed; keys live in e
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/your-profile) <!-- replace with your profile URL -->
+[LinkedIn](https://www.linkedin.com/in/dmytrosvyrydov/) <!-- replace with your profile URL -->
